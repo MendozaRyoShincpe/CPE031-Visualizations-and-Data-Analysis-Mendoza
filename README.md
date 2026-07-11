@@ -7,8 +7,8 @@ Welcome to my repository for **CPE 031 – Visualizations and Data Analysis**. T
 ## 👨‍🎓 Student Information
 
 * **Name:** RYO SHIN MENDOZA
-* **Course/Section:** CPE21S1
-* **Subject:** CPE 031 – Visualizations and Data Analysis
+* **Program/Section:** CPE21S1
+* **Course Code/Course:** CPE 031 – Visualizations and Data Analysis
 
 ---
 
