@@ -18,8 +18,7 @@ Welcome to my repository for **CPE 031 – Visualizations and Data Analysis**. T
 📦 CPE031-Visualizations-and-Data-Analysis
 ├── 📂 Laboratory Activities
 ├── 📂 Projects
-├── 📄 README.md
-└── 📄 .gitignore
+└── 📄 README.md
 ```
 
 ### 🧪 Laboratory Activities
@@ -36,10 +35,7 @@ This folder contains course projects, including major programming and data visua
 
 * 🐍 Python
 * 📓 Jupyter Notebook
-* 📊 Matplotlib
-* 📈 Seaborn
-* 🐼 Pandas
-* 🔢 NumPy
+
 
 ---
 
@@ -47,6 +43,3 @@ This folder contains course projects, including major programming and data visua
 
 This repository serves as a collection of my work in **CPE 031**, demonstrating the application of data analysis techniques and visualization tools to explore, interpret, and communicate data effectively.
 
----
-
-> *"Data is the new oil, but insight is the real value."* 📈
