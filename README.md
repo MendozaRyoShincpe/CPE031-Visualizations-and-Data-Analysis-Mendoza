@@ -29,32 +29,11 @@
 
 Click a grading period to explore its activities.
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%">Grading Period</th>
-      <th width="55%">Activities</th>
-      <th width="25%">Explore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>📘 <b>Prelim</b></td>
-      <td>Assignment, Exam, Hands-on Activity, Quiz, and Seatwork</td>
-      <td><a href="./Laboratory%20Activities/Prelim/">Explore Prelim →</a></td>
-    </tr>
-    <tr>
-      <td>📗 <b>Midterm</b></td>
-      <td>Exam and Hands-on Activity</td>
-      <td><a href="./Laboratory%20Activities/Midterm/">Explore Midterm →</a></td>
-    </tr>
-    <tr>
-      <td>📕 <b>Finals</b></td>
-      <td>Assignment, Hands-on Activity, and Seatwork</td>
-      <td><a href="./Laboratory%20Activities/Finals/">Explore Finals →</a></td>
-    </tr>
-  </tbody>
-</table>
+| Grading Period | Activities | Link |
+|---|---|---|
+| 📘 Prelim | Assignment, Exam, Hands-on Activity, Quiz, Seatwork | [**Explore Prelim →**](./Laboratory%20Activities/Prelim/) |
+| 📗 Midterm | Exam, Hands-on Activity | [**Explore Midterm →**](./Laboratory%20Activities/Midterm/) |
+| 📕 Finals | Assignment, Hands-on Activity, Seatwork | [**Explore Finals →**](./Laboratory%20Activities/Finals/) |
 
 ### 🚀 Projects
 
