@@ -75,18 +75,18 @@ Explore my course projects, data analysis, and visualization outputs.
 
 ---
 
-## ✅ Learning Progress
+## 📚 Learning Checklist
 
-- [ ] Data Collection and Preparation
-- [ ] Data Cleaning and Transformation
-- [ ] Univariate and Bivariate Analysis
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Data Visualization Techniques
-- [ ] Gestalt Principles and Data-Ink
-- [ ] Preattentive Attributes
-- [ ] Color Theory
-- [ ] Data Storytelling
-- [ ] Interactive Dashboards
+- [x] Data Collection and Preparation
+- [x] Data Cleaning and Transformation
+- [x] Univariate and Bivariate Analysis
+- [x] Exploratory Data Analysis (EDA)
+- [x] Data Visualization
+- [x] Gestalt Principles and Data-Ink
+- [x] Preattentive Attributes
+- [x] Color Theory
+- [x] Data Storytelling
+- [ ] Dashboard Creation
 - [ ] Final Project
 
 ---
