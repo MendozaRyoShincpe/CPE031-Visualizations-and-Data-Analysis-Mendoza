@@ -1,7 +1,7 @@
 # 📊 CPE 031 – Visualizations and Data Analysis
 
 <p align="center">
-  <img src="images/banner.png" alt="CPE 031 VDA Welcome Banner" width="100%">
+  <img src="<img width="1536" height="1024" alt="Welcome to CPE 031 dashboard" src="https://github.com/user-attachments/assets/f02dd4e5-5842-425c-8ed4-8607de813833" />" alt="CPE 031 VDA Welcome Banner" width="100%">
 </p>
 
 <p align="center">
