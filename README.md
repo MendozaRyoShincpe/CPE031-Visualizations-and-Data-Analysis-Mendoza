@@ -1,19 +1,15 @@
 # 📊 CPE 031 – Visualizations and Data Analysis
 
-<p align="center">
-  <img src="![Uploading Welcome to CPE 031 dashboard.png…]()banner.png" alt="CPE 031 VDA Welcome Banner" width="100%">
-</p>
+\<p align="center">
+&#x20; \<b>Welcome to my VDA repository!\</b>\<br>
+&#x20; A collection of my laboratory activities, assignments, assessments, and projects throughout the semester.
+\</p>
 
-<p align="center">
-  <b>Welcome to my VDA repository!</b><br>
-  A collection of my laboratory activities, assignments, assessments, and projects throughout the semester.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Subject-CPE%20031-7040E8?style=for-the-badge" alt="Subject">
-  <img src="https://img.shields.io/badge/Section-CPE21S1-2563EB?style=for-the-badge" alt="Section">
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Subject-CPE%20031-7040E8?style=for-the-badge](https://img.shields.io/badge/Subject-CPE%20031-7040E8?style=for-the-badge)" alt="Subject">
+&#x20; \<img src="[https://img.shields.io/badge/Section-CPE21S1-2563EB?style=for-the-badge](https://img.shields.io/badge/Section-CPE21S1-2563EB?style=for-the-badge)" alt="Section">
+&#x20; \<img src="[https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python">
+\</p>
 
 ---
 
@@ -32,7 +28,6 @@
 📦 CPE031-Visualizations-and-Data-Analysis
 │
 ├── 📂 Laboratory Activities
-│   │
 │   ├── 📂 Prelim
 │   │   ├── 📂 Assignment
 │   │   ├── 📂 Exam
@@ -50,7 +45,6 @@
 │       └── 📂 Seatwork
 │
 ├── 📂 Projects
-│
 └── 📄 README.md
 ```
 
@@ -60,65 +54,63 @@
 
 This folder contains my academic activities organized according to the three grading periods.
 
-| Folder | Description |
-|---|---|
-| 📘 **Prelim** | Assignments, exams, hands-on activities, quizzes, and seatwork |
-| 📗 **Midterm** | Exams and hands-on programming or visualization activities |
-| 📕 **Finals** | Assignments, hands-on activities, and seatwork |
-
-Each folder contains the corresponding outputs and files for the activities completed during the semester.
+| Folder         | Contents                                                       |
+| -------------- | -------------------------------------------------------------- |
+| 📘 **Prelim**  | Assignments, exams, hands-on activities, quizzes, and seatwork |
+| 📗 **Midterm** | Exams and hands-on activities                                  |
+| 📕 **Finals**  | Assignments, hands-on activities, and seatwork                 |
 
 ## 🚀 Projects
 
-This folder contains my course projects, including data analysis, exploratory data analysis (EDA), and data visualization tasks.
+This folder contains my course projects, including exploratory data analysis (EDA), data visualization, and other data-related tasks.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|---|---|
-| 🐍 Python | Programming and data analysis |
-| 📊 Pandas | Data manipulation and analysis |
-| 🔢 NumPy | Numerical operations |
-| 📈 Matplotlib | Creating charts and visualizations |
-| 🎨 Seaborn | Statistical data visualization |
-| 📓 Jupyter Notebook | Writing and executing code interactively |
-| 🐙 Git & GitHub | Version control and repository management |
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 📊 Matplotlib
+- 🎨 Seaborn
+- 📓 Jupyter Notebook
+- 🐙 Git & GitHub
 
 ---
 
 ## 🎯 Learning Objectives
 
-Through this course, I aim to:
-
 - Understand and apply data visualization principles.
 - Explore datasets using exploratory data analysis.
 - Identify patterns, trends, and relationships in data.
-- Create clear and meaningful charts and visualizations.
-- Communicate insights using data-driven analysis.
+- Create clear and meaningful charts.
+- Communicate insights through data-driven analysis.
 
 ---
 
-## 📈 Learning Progress
+## ✅ Learning Progress Checklist
 
 - [ ] Data Collection and Preparation
-- [ ] Exploratory Data Analysis (EDA)
 - [ ] Data Cleaning and Transformation
-- [ ] Univariate and Bivariate Analysis
+- [ ] Univariate Analysis
+- [ ] Bivariate Analysis
+- [ ] Exploratory Data Analysis (EDA)
 - [ ] Data Visualization Techniques
-- [ ] Interactive Dashboards
+- [ ] Gestalt Principles and Data-Ink
+- [ ] Preattentive Attributes
+- [ ] Color Theory in Visualization
 - [ ] Data Storytelling
+- [ ] Interactive Dashboards
 - [ ] Final Project
 
 ---
 
 ## 📌 Repository Purpose
 
-This repository serves as a record of my learning journey in **Visualizations and Data Analysis**. It documents my progress in analyzing datasets, creating visualizations, and presenting meaningful insights through practical activities and projects.
+This repository serves as a record of my learning journey in **Visualizations and Data Analysis**, showcasing my laboratory activities, projects, and progress in exploring data and presenting meaningful insights.
 
 ---
 
-<p align="center">
-  <i>✨ Explore the data. Discover the patterns. Tell the story. ✨</i>
-</p>
+\<p align="center">
+&#x20; \<i>✨ Explore the data. Discover the patterns. Tell the story. ✨\</i>
+\</p>
